@@ -1,0 +1,35 @@
+header {
+    text-align: center;
+    padding: 20px;
+    padding-top: 0px;
+    color: hsl(206, 17%, 28%);
+}
+
+body { 
+font-family: sans-serif;
+
+text-align: left;
+    padding: 20px;
+    padding-top: 0px;
+    color: hsl(206, 17%, 28%);
+
+}
+
+.password-body{
+    
+  
+
+
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;  
+}
+
+#passwordDisplay{
+     border: 1px red solid;
+     text-align: center;
+}
+.buttonContainer{
+    border: 1px green solid;
+}
+#generate{
+    background: red;
+}
